@@ -1,6 +1,6 @@
 
 ###################
-Contact Form - CodeIgniter
+CodeIgniter Form
 ###################
 
 A sample web form generated via CodeIgniter.
