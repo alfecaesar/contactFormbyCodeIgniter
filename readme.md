@@ -1,7 +1,5 @@
 
-*******************
-Contact Form - CodeIgniter
-*******************
+# Contact Form - CodeIgniter
 
 A sample web form generated via CodeIgniter.
 
